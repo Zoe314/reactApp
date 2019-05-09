@@ -1,0 +1,28 @@
+#login {
+  height: 100%;
+  // background:#eaeafa;
+  .card {
+    // background: #efefef;
+    width: 524px;
+    height: 262px;
+    .logo {
+      color: #edafae;
+      font-size: 24px;
+      // margin: 25px 0 12px 55px;
+      padding: 2em;
+    }
+    .form {
+      .ant-form-item {
+        margin-bottom: 15px;
+      }
+      .button {
+        // position: absolute;
+        // background: rgba($color: #FFF, $alpha: 0);
+    //     border: transparent;
+        width: 100%;
+        border-radius: 5px;
+        vertical-align: center;
+      }
+    }
+  }
+}
